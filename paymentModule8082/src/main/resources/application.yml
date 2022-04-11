@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name:  cloud-payment8082-service
